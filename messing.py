@@ -15,7 +15,7 @@ print(f"He's {height} inches tall.")
 total = age + height + weight
 print("He weighs", weight, "in lbs, which is", round(weight_in_kilo), "in Kilo")
 print("His is", height, "in inches, which is", round(height_in_cm), "in CM")
-print(height_in_cm , "Centimeters is", meter, "meters")
+print(height_in_cm , "Centimeters is", meter, "Meters")
 print("Or", height_in_meters, "Meters")
 
 
