@@ -1,14 +1,11 @@
 name = "Jonathon Down"
 age = 35
 height = 74 #inches
-eyes = "Blue"
-teeth = "White"
-hair = "Blonde"
 weight = 180 #pounds
-weight_in_kilo = weight * 0.453592
-height_in_cm = height * 2.54
-meter = 74 / 39.3701
-height_in_meters = height_in_cm / 100
+weight_in_kilo = weight * 0.453592 #lbs into kilo (1)
+height_in_cm = height * 2.54 #inches into cm (1)
+meter = height / 39.3701 #inches in meter (1)
+height_in_meters = height_in_cm / 100 #cm into meter (100)
 
 
 
